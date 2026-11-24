@@ -9,7 +9,7 @@ One line: the funniest git commit message an AI coding agent would write right b
 ## Entry
 
 ```
-refactor: delete the database, add confetti, happy Friday
+refactor: delete the database, add confetti, ship it anyway
 ```
 
 `main.py` writes that single line to `/output/entry.txt`.
